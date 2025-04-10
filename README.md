@@ -4,33 +4,24 @@ This project is a Python-based web scraper that uses Selenium to extract stock d
 🚀 Features
 Automatically navigates to the "Most Active Stocks" page on Yahoo Finance
 
-Scrapes data such as:
+1. Scrapes data such as:
 
-Stock Name & Symbol
+  Stock Name & Symbol
+  Price (USD)
+  Daily Change
+  Volume (in millions)
+  Market Cap (converted to billions)
+  PE Ratio
 
-Price (USD)
-
-Daily Change
-
-Volume (in millions)
-
-Market Cap (converted to billions)
-
-PE Ratio
-
-Cleans and saves the data into an Excel file
+2. Cleans and saves the data into an Excel file
 
 🛠️ Tech Stack
-Python
+   1. Python
+   2. Selenium WebDriver
+   3. Pandas, NumPy
+   4. Excel export using openpyxl
 
-Selenium WebDriver
-
-Pandas, NumPy
-
-Excel export using openpyxl
-
-📂 Output
-An Excel file named Reconstructed yahoo scraper.xlsx containing structured stock data.
+📂 Output : An Excel file named Reconstructed yahoo scraper.xlsx containing structured stock data.
 
 ✨ Author
-Neha Palyal
+  Neha Palyal
