@@ -6,12 +6,12 @@ Automatically navigates to the "Most Active Stocks" page on Yahoo Finance
 
 1. Scrapes data such as:
 
-  Stock Name & Symbol
-  Price (USD)
-  Daily Change
-  Volume (in millions)
-  Market Cap (converted to billions)
-  PE Ratio
+  Stock Name & Symbol ,
+  Price (USD) ,
+  Daily Change , 
+  Volume (in millions) ,
+  Market Cap (converted to billions) ,
+  PE Ratio 
 
 2. Cleans and saves the data into an Excel file
 
