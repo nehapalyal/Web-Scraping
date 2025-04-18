@@ -1,4 +1,5 @@
 PROJECT 1 : 
+
 📊 Yahoo Finance Stock Scraper
 This project is a Python-based web scraper that uses Selenium to extract stock data from Yahoo Finance, focusing on the Most Active Stocks section.
 
@@ -27,6 +28,7 @@ Automatically navigates to the "Most Active Stocks" page on Yahoo Finance
 
 
 PROJECT 2 :
+
 # 🏙️ 99acres Real Estate Scraper
 
 > A personal side project that tested my patience—and my Selenium skills! 😅
